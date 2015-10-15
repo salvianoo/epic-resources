@@ -1,3 +1,8 @@
+Where read about programming
+===
+
+- [Posts on Medium about Javascript](https://medium.com/tag/javascript)
+
 JavaScript modules
 ====
 
