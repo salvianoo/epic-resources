@@ -1,4 +1,6 @@
-# Where read about programming
+# Epic Resources
+
+## Where read about programming
 
 - [Posts on Medium about Javascript](https://medium.com/tag/javascript)
 
