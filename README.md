@@ -3,10 +3,10 @@ Where read about programming
 
 - [Posts on Medium about Javascript](https://medium.com/tag/javascript)
 
-JavaScript modules
-====
+Javascript
+===
 
-- [lodash](https://lodash.com/)
+- [Collection of Essential Javascript links](https://github.com/ericelliott/essential-javascript-links)
 
 Services
 ====
@@ -18,3 +18,13 @@ Open Source Tools
 ====
 
 - [Lita - A robot companion for your company's chat room](https://www.lita.io/)
+
+npm modules
+====
+
+- [lodash](https://lodash.com/)
+
+Gems
+===
+
+- [rubocop](https://github.com/bbatsov/rubocop)
