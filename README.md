@@ -7,6 +7,7 @@
 ## Javascript
 
 - [Collection of Essential Javascript links](https://github.com/ericelliott/essential-javascript-links)
+- [Pony Foo Blog](https://ponyfoo.com/)
 
 ## Services
 
