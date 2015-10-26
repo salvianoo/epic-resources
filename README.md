@@ -8,6 +8,7 @@
 
 - [Collection of Essential Javascript links](https://github.com/ericelliott/essential-javascript-links)
 - [Pony Foo Blog](https://ponyfoo.com/)
+- [Front-end Handbook](http://www.frontendhandbook.com/)
 
 ## Services
 
