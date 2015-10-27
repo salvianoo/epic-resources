@@ -14,6 +14,7 @@
 
 - [surge](https://surge.sh/)
 - [sslmate](https://sslmate.com/)
+- [Blitz.io (load testing tool](https://www.blitz.io/)
 
 ## Open Source Tools
 
