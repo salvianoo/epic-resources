@@ -10,6 +10,10 @@
 - [Pony Foo Blog](https://ponyfoo.com/)
 - [Front-end Handbook](http://www.frontendhandbook.com/)
 
+## Git
+
+- [Flight rules for git (what to do when things go wrong)](https://github.com/k88hudson/git-flight-rules)
+
 ## Services
 
 - [surge](https://surge.sh/)
