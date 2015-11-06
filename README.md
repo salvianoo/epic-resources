@@ -14,6 +14,10 @@
 
 - [Flight rules for git (what to do when things go wrong)](https://github.com/k88hudson/git-flight-rules)
 
+## DevOps
+
+- [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/)
+
 ## Services
 
 - [surge](https://surge.sh/)
